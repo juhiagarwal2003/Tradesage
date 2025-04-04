@@ -1,6 +1,5 @@
 # TradeSage: Intelligent Trading Strategy Analysis
 
-![TradeSage Logo](https://via.placeholder.com/150)  *(Add your logo here)*
 
 TradeSage is an intelligent trading strategy analysis system that combines sophisticated data processing with smart trading insights. It's designed to analyze options trading strategies with precision and generate comprehensive performance reports.
 
@@ -91,7 +90,7 @@ TradeSage/
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! 
 
 1. Fork the repository
 2. Create your feature branch
@@ -99,9 +98,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
